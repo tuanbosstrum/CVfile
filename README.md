@@ -1,2 +1,2 @@
 # CVfile
-link: https://tuanbosstrum.github.io/CVfile/HLATuanCV
+link: https://tuanbosstrum.github.io/CVfile/HLATuanCV.pdf
